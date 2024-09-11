@@ -1,2 +1,2 @@
 # P1
-Business sales analysis
+Business sales analysis project
